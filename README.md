@@ -3,7 +3,7 @@
   
 Version control is like a time machine for your files. Imagine you're working on a project, and as you make changes, the version control system keeps track of every modification you make. It stores different snapshots of your project at different points in time.
 
-## 1. Explain version control
+## 1. Explaining version control
 
 Here's a simple analogy:
 
@@ -36,7 +36,7 @@ Other alternatives of github includes:
 - SourceForge
 
 
-## 4 difference between git fetch and fit pull
+## 4 Difference between git fetch and git pull
 Both `git fetch` and `git pull` are commands in Git, but they serve different purposes:
 
 **Git Fetch:**
